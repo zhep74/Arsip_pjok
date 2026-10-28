@@ -1,0 +1,6 @@
+{
+  "name": "Arsip Digital Administrasi Guru PJOK",
+  "description": "Aplikasi Penyimpanan & Manajemen Berkas Administrasi Guru PJOK lengkap dengan pencarian, preview, kategori, dan pencadangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
